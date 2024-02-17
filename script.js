@@ -152,3 +152,4 @@ document.getElementById('noBtn').addEventListener('mouseenter', function() {
         document.getElementById('noBtn').classList.remove('disabled'); // Habilitar clic en el botón
     }, 500); // Ajusta este valor según la duración de tu animación CSS
 });
+
